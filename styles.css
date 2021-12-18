@@ -1,0 +1,82 @@
+a {
+ color:white;
+}
+
+body {
+ font-family: "Questrial", sans-serif;
+}
+
+#contact {
+ background-color: #2D4E57;
+ position: absolute;
+ height: 3rem;
+}
+
+#howItWorks {
+ background-color: #5594A3;
+}
+
+#howItWorks h1 {
+ color: white;
+}
+
+#testimonials {
+ position: relative;
+ margin: auto;
+ width: 100%;
+}
+
+#whatIsPickyEatr {
+ position: relative;
+}
+
+.callToAction {
+ background-color: #475457;
+ position: relative;
+ height: 5rem;
+ align-items: center;
+ justify-content: center;
+}
+
+.card {
+ width:100%;
+ display: block;
+}
+
+.carousel-container {
+background-color: #6FC2D4;
+width: 100%;
+}
+
+.hero {
+ background-image: url(img/couple-phones.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ max-height:667px;
+}
+
+.modal-body {
+ background-color: white;
+}
+.modal-header {
+ background-color: #2D4E57;
+ color: white;
+}
+
+.navbar {
+  background-color: #6FC2D4;
+}
+
+.phone-img {
+ align-items: center;
+}
+
+.testimonial {
+ width: 24rem;
+}
+
+.text-column {
+ align-items: center;
+ margin: auto;
+}
